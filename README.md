@@ -1,6 +1,6 @@
-WELCOME
-
-- 👋 I’m Ali Ghanad
+# WELCOME
+In summary : I'm a novice programmer who is very interested in learning JavaScript , React Library and maaaany other things...
+- 👋 My name is Ali Ghanad
 - 👀 I’m interested in programming and design 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I would like to cooperate with different people in the future
