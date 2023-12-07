@@ -1,9 +1,11 @@
 # WELCOME
-In summary : I'm a beginner programmer who is very interested in learning JavaScript , react , as well as many other things.
+In summary : I’m a beginner programmer who is very interested in learning JavaScript , react , as well as many other things.
+
 - 👋 My name is Ali Ghanad
 - 👀 I’m interested in programming and design 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I would like to cooperate with different people in the future
+- 🧩 I’m also interested in sketching, 3D arts, music, and I know a little bit about each of them
 - 📫 Contact with me : sherkata714@gmail.com
 
 <!---
