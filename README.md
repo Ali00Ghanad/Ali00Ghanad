@@ -1,5 +1,5 @@
 # WELCOME
-In summary : I'm a novice programmer who is very interested in learning JavaScript , React Library and maaaany other things...
+In summary : I'm a beginner programmer who is very interested in learning JavaScript , react , as well as many other things.
 - 👋 My name is Ali Ghanad
 - 👀 I’m interested in programming and design 
 - 🌱 I’m currently learning JavaScript
